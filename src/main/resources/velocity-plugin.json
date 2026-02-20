@@ -1,0 +1,12 @@
+{
+  "id": "staffchat",
+  "name": "StaffChat",
+  "version": "1.0",
+  "main": "staffchat.StaffChatPlugin",
+  "dependencies": [
+    {
+      "id": "luckperms",
+      "optional": true
+    }
+  ]
+}
